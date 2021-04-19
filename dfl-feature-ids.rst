@@ -98,6 +98,10 @@ document.
      - 0
      - 0x20
 
+   * - n5010 Hitek MAC
+     - 0
+     - 0x21
+
    * - Port Errors
      - 1
      - 0x10
