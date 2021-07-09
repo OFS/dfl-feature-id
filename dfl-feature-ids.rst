@@ -46,6 +46,10 @@ document.
      - 0
      - 7
 
+   * - QSPI Flash
+     - 0
+     - 8
+
    * - External Memory Interface (EMIF)
      - 0
      - 9
