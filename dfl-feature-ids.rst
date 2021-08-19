@@ -106,6 +106,10 @@ document.
      - 0
      - 0x21
 
+   * - ToD
+     - 0
+     - 0x22
+
    * - Port Errors
      - 1
      - 0x10
