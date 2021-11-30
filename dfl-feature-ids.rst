@@ -110,6 +110,10 @@ document.
      - 0
      - 0x22
 
+   * - Feature with GUID
+     - 0
+     - 0x23
+
    * - Port Errors
      - 1
      - 0x10
