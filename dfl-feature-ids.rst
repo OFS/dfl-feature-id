@@ -114,6 +114,10 @@ document.
      - 0
      - 0x23
 
+   * - Virtual UART 
+     - 0
+     - 0x24
+
    * - Port Errors
      - 1
      - 0x10
