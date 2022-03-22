@@ -90,7 +90,7 @@ document.
      - 0
      - 0x14
 
-   * - HSSI Subsystem
+   * - OFS HSSI Subsystem
      - 0
      - 0x15
 
