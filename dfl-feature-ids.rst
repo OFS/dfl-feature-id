@@ -38,7 +38,7 @@ document.
      - 0
      - 5
 
-   * - HSSI (legacy)
+   * - HSSI (legacy, not used)
      - 0
      - 6
 
@@ -54,7 +54,7 @@ document.
      - 0
      - 9
 
-   * - dfl_hssi
+   * - dfl_d5005_hssi (deprecated and not to be upstreamed)
      - 0
      - 0xa
 
@@ -66,7 +66,11 @@ document.
      - 0
      - 0xe
 
-   * - n3000 mac rom & s10hssi-EA-R1
+   * - n3000 mac rom
+     - 0
+     - 0xf
+
+   * - s10hssi-EA-R1(duplicate id, rejected netdev implementation, and deprecated)
      - 0
      - 0xf
 
@@ -90,7 +94,7 @@ document.
      - 0
      - 0x14
 
-   * - OFS HSSI Subsystem
+   * - HSSI Subsystem
      - 0
      - 0x15
 
