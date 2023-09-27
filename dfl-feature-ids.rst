@@ -122,6 +122,10 @@ document.
      - 0
      - 0x24
 
+   * - Scalable Scatter-Gather DMA Intel FPGA IP 
+     - 0
+     - 0x25
+
    * - Port Errors
      - 1
      - 0x10
