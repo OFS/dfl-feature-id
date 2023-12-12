@@ -122,9 +122,13 @@ document.
      - 0
      - 0x24
 
-   * - Scalable Scatter-Gather DMA Intel FPGA IP 
+   * - CXL Cache IP
      - 0
      - 0x25
+
+   * - Scalable Scatter-Gather DMA Intel FPGA IP 
+     - 0
+     - 0x26
 
    * - Port Errors
      - 1
