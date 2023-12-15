@@ -18,6 +18,10 @@ document.
      - Feature Type
      - Feature ID
 
+   * - **FIM**
+     - **0**
+     -
+
    * - Thermal Mgmt (legacy)
      - 0
      - 1
@@ -130,6 +134,18 @@ document.
      - 0
      - 0x26
 
+   * - **AFU**
+     - **1**
+     -
+
+   * - Normal AFU
+     - 1
+     - 0
+
+   * - Child port of a multi-ported AFU
+     - 1
+     - 1
+
    * - Port Errors
      - 1
      - 0x10
@@ -149,3 +165,7 @@ document.
    * - s10 IOPLL
      - 1
      - 0x14
+
+   * - **BBB (Basic Building Block)**
+     - **2**
+     -
