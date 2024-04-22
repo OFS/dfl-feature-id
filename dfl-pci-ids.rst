@@ -84,6 +84,10 @@ Device Feature Lists (DFL).
      - Subsystem Vendor ID
      - Subsystem ID
 
+   * - PCIE_SUBDEVICE_ID_INTEL_D5005
+     - PCI_VENDOR_ID_INTEL 0x8086
+     - 0x138d
+
    * - PCIE_SUBDEVICE_ID_INTEL_N6000
      - PCI_VENDOR_ID_INTEL 0x8086
      - 0x1770
