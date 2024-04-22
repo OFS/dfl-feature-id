@@ -84,15 +84,15 @@ Device Feature Lists (DFL).
      - Subsystem Vendor ID
      - Subsystem ID
 
-   * - PCIE_DEVICE_SID_C6100
-     - PCI_VENDOR_ID_INTEL 0x8086
-     - 0x17d4
-
-   * - PCIE_DEVICE_SID_N6000
+   * - PCIE_SUBDEVICE_ID_INTEL_N6000
      - PCI_VENDOR_ID_INTEL 0x8086
      - 0x1770
 
-   * - PCIE_DEVICE_SID_N6001
+   * - PCIE_SUBDEVICE_ID_INTEL_N6001
      - PCI_VENDOR_ID_INTEL 0x8086
      - 0x1771
+
+   * - PCIE_SUBDEVICE_ID_INTEL_C6100
+     - PCI_VENDOR_ID_INTEL 0x8086
+     - 0x17d4
 
