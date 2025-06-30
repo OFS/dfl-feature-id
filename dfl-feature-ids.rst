@@ -134,6 +134,10 @@ document.
      - 0
      - 0x26
 
+   * - EMIF User Clock IP for Agilex 7 M-Series
+     - 0
+     - 0x27
+
    * - **AFU**
      - **1**
      -
